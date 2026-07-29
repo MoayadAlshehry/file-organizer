@@ -14,8 +14,8 @@ CLI file organization utility that categorizes files into folders by extension.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/file-organizer.git
-   cd file-organizer
+git clone https://github.com/MoayadAlshehry/file-organizer.git
+cd file-organizer
 ```
 
 ## Usage
