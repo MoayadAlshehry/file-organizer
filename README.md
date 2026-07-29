@@ -12,7 +12,7 @@ A Python CLI tool that automatically organizes files in a directory by their fil
 ## Installation
 Clone the repository and run the script directly. No third-party dependencies are required.
 
-```bash
+```b```bash
 git clone <your-repo-url>
 cd file-organizer
 ```
@@ -20,21 +20,21 @@ cd file-organizer
 ## Usage
 Run `main.py` passing the directory you want to organize. If no directory is passed, it uses the current directory.
 
-```bash
+```b```bash
 python main.py /path/to/your/folder
 ```
 
 ### Examples
 - **Dry Run** (preview changes):
-  ```bash
+  ```b```bash
   python main.py /path/to/your/folder --dry-run
   ```
 - **Recursive Organize** (include subfolders):
-  ```bash
+  ```b```bash
   python main.py /path/to/your/folder -r
   ```
 - **Undo Last Operation**:
-  ```bash
+  ```b```bash
   python main.py /path/to/your/folder --undo
   ```
 
